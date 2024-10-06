@@ -7,6 +7,6 @@ url: https://github.com/xingbiao996/HitokotoComponent  # 插件 Url
 author: 星标  # 插件作者
 version: 1.0.0.0  # 插件版本
 readme: README.md
-RepoOwner: xingbiao996
-RepoName: HitokotoComponent
-AssetsRoot: master/.
+repoOwner: xingbiao996
+repoName: HitokotoComponent
+assetsRoot: master/.
